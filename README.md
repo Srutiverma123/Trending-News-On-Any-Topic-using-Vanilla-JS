@@ -6,8 +6,8 @@
 https://rapidapi.com/contextualwebsearch/api/web-search/  (select newsSearch tab which is on the left side of the screen)
 
 # In main.js
-const baseURL = `https://contextualwebsearch-websearch-v1.p.rapidapi.com/api/search/NewsSearchAPI?q=${searchQuery}&pageSize=6&rapidapi-key=7db7f346d7msh9c264b713524a7cp1e858cjsnbc6999a2774a`;
-(You can set the pageSize to be any number below 10, this value will show you only that much news stories)
+const baseURL = `https://contextualwebsearch-websearch-v1.p.rapidapi.com/api/search/NewsSearchAPI?q=${searchQuery}&pageSize=6&rapidapi-key=USE YOUR KEY VALUE`;
+(You can set the pageSize to be any number below 10, this value will show you only that much news stories &  rapidapi-key value is value of x-rapidapi-key)
 
 
 # Home page
