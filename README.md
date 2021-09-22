@@ -17,7 +17,7 @@ const baseURL = `https://contextualwebsearch-websearch-v1.p.rapidapi.com/api/sea
 <img width="945" alt="cricket" src="https://user-images.githubusercontent.com/61344492/134348099-55a36c22-8ecf-4176-a2bb-43bbab19678c.png">
 <img width="943" alt="cricket2" src="https://user-images.githubusercontent.com/61344492/134351457-4963d22b-61ba-4264-9090-f14caed8a198.png">
 
-# After clicking View News(actual news opens in another tab)
+# After clicking View News of first news article(actual news opens in another tab)
 <img width="717" alt="Picture1" src="https://user-images.githubusercontent.com/61344492/134352051-ee65301d-f435-46ac-948f-d32163bb7701.png">
 
 # If you serach Sgx nifty 
