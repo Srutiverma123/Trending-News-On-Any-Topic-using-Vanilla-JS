@@ -1,4 +1,5 @@
-# Trending-News-On-Any-Topic
+# Trending-News-On-Any-Topic-using-Vanilla-JS
+
 # A website which gives the trending news with an image, title, date of publication &amp; content .
 
 # Public API used
@@ -8,7 +9,7 @@ https://rapidapi.com/contextualwebsearch/api/web-search/  (select newsSearch tab
 const baseURL = `https://contextualwebsearch-websearch-v1.p.rapidapi.com/api/search/NewsSearchAPI?q=${searchQuery}&pageSize=6&rapidapi-key=7db7f346d7msh9c264b713524a7cp1e858cjsnbc6999a2774a`;
 (You can set the pageSize to be any number below 10, this value will show you only that much news stories)
 
-# Screenshots
+
 # Home page
 <img width="946" alt="home" src="https://user-images.githubusercontent.com/61344492/134347775-ef6f2838-5226-47c5-bf1b-36ca42b59503.png">
 
