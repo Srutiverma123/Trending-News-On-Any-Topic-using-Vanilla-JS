@@ -15,9 +15,13 @@ const baseURL = `https://contextualwebsearch-websearch-v1.p.rapidapi.com/api/sea
 
 # If you serach Cricket 
 <img width="945" alt="cricket" src="https://user-images.githubusercontent.com/61344492/134348099-55a36c22-8ecf-4176-a2bb-43bbab19678c.png">
+<img width="943" alt="cricket2" src="https://user-images.githubusercontent.com/61344492/134351457-4963d22b-61ba-4264-9090-f14caed8a198.png">
+
+# After clicking View News
 
 
 # If you serach Sgx nifty 
+<img width="942" alt="stocks" src="https://user-images.githubusercontent.com/61344492/134351477-584295ba-9b1b-41c6-b6f1-4e26edaaeff7.png">
 
 
 
